@@ -1,0 +1,1 @@
+Barcode: 565656565656, Name: Tablet, Description: Whhd-10019, Price: $599.00, Quantity: 500, Supplier: Apple

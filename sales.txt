@@ -1,0 +1,1 @@
+Barcode: 565656565656, Quantity Sold: 200, Remaining quantity: 300, Sale Date: 2020-05-19, Customer: Unknown
